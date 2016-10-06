@@ -1,0 +1,1 @@
+[02-Apr-2014 05:36:21] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fsamoz/public_html/includes/add.php:6) in /home/fsamoz/public_html/includes/add.php on line 27
